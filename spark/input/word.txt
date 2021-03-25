@@ -1,6 +1,0 @@
-hello mobikok
-hello spark
-hello hadoop
-hello scala
-hello cloudera
-hello ambari
